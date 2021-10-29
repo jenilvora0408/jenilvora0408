@@ -1,6 +1,5 @@
 # Hello World, I'm Jenil Vora 👋
 
-- 🔭 I’m currently working as Web Development Intern at Stige
 - 🌱 I’m currently pursuing undergrad in Computer Engineering
 - 👯 I’m looking to collaborate on Webapp and Frontend projects
 - 📫 How to reach me: jenil.vora0408@gmail.com
