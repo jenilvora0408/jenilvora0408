@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World, I'm Jenil Vora 👋
 🌱 I’m currently pursuing undergrad in Computer Engineering<br>👯 I’m looking to collaborate on Webapp and Backend projects<br>📫 How to reach me: jenil.vora0408@gmail.com
 
 
